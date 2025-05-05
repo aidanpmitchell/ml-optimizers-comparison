@@ -178,7 +178,7 @@ cython_debug/
 # Notebook checkpoints
 .ipynb_checkpoints/
 
-# Virtual environment (if it's in your project root)
+# Virtual environment 
 mlopt/
 
 # Project-specific cache/log
