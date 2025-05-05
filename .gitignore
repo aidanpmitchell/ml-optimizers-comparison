@@ -172,3 +172,18 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+
+
+# Notebook checkpoints
+.ipynb_checkpoints/
+
+# Virtual environment (if it's in your project root)
+mlopt/
+
+# Project-specific cache/log
+*.tmp
+*.log
+
+# VS Code settings (if using VS Code)
+.vscode/
